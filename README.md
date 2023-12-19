@@ -1,4 +1,4 @@
-# poo2023.2
+# POO 2023.2 - CAMPUS IV
 Exercícios a respeito da disciplina de Programação Orientada a Objetos do período 2023.2 da UFPB-CAMPUS IV
 
 # Wendell Matheus Araújo dos Santos
